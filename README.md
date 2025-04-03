@@ -109,7 +109,7 @@ python manage.py runserver
  ├── requirements.txt
 ```
 
-## 🔑 Authentication
+## 🔑 Authentication:
 - Uses `JWT` authentication via `djangorestframework-simplejwt`
 - `access` token expires in 30 minutes
 - `refresh` token expires in 1 day
